@@ -1,0 +1,16 @@
+@import "./partial/bootstrap-override";
+
+body {
+  width: 100%;
+  color: #fcfcfc;
+  background-color: #1c1b1b;
+}
+
+.logo {
+  width: 150px;
+  display: block;
+}
+
+.mainPage {
+  padding: 10px;
+}
