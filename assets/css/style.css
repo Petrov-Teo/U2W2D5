@@ -11982,4 +11982,11 @@ body {
 
 .tvShows {
   font-weight: bold;
+}
+
+.imgW {
+  width: 100%;
+  height: auto;
+  -o-object-fit: cover;
+     object-fit: cover;
 }/*# sourceMappingURL=style.css.map */
