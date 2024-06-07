@@ -11,9 +11,9 @@ body {
   display: block;
 }
 
-.mainPage {
-  padding: 10px;
-}
+// .mainPage {
+//   padding: 10px;
+// }
 
 .avatar {
   width: 50px;
@@ -29,3 +29,12 @@ body {
 //   height: auto;
 //   object-fit: fill;
 // }
+
+.btnBorderNone {
+  border-radius: unset;
+}
+.positionABS {
+  position: absolute;
+  left: -19px;
+  bottom: 0;
+}
