@@ -24,11 +24,10 @@ body {
   font-weight: bold;
 }
 
-// .imgW {
-//   width: 50%;
-//   height: auto;
-//   object-fit: fill;
-// }
+.imgW {
+  width: 20%;
+  height: auto;
+}
 
 .btnBorderNone {
   border-radius: unset;
@@ -37,4 +36,9 @@ body {
   position: absolute;
   left: -19px;
   bottom: 0;
+}
+.positionABS2 {
+  position: absolute;
+  left: -40px;
+  bottom: 0px;
 }
